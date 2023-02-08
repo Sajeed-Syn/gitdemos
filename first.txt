@@ -1,0 +1,5 @@
+Today is wednesday
+month is february
+year is 2023
+day is 8
+it is wonderful day
